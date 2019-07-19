@@ -27,7 +27,7 @@
     </dependency>
   </dependencies>
 
-  <!-- Just for CI -->   
+  <!-- Just for CIDEMO  -->   
 
   <build>
          <plugins>
