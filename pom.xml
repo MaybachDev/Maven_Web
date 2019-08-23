@@ -28,7 +28,7 @@
     </dependency>
   </dependencies>
 
-  <!-- Just for CIDEMO puprose  -->   
+  <!-- Just for CIDEMO purpose  -->   
 
   <build>
          <plugins>
